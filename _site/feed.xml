@@ -3,18 +3,36 @@
   <channel>
     <title>Jekflix | A blog theme for Jekyll</title>
     <description>Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 27 Feb 2026 09:34:06 +0300</pubDate>
-    <lastBuildDate>Fri, 27 Feb 2026 09:34:06 +0300</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 27 Feb 2026 23:09:22 +0300</pubDate>
+    <lastBuildDate>Fri, 27 Feb 2026 23:09:22 +0300</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Brutally honest AI</title>
+        <description>&lt;p&gt;One unfortunate morning, I open the the current project I am working on only to find out that my virtual environment is broken. It has never happened before. I ask &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;which pip&lt;/code&gt; and my computer basically pulls a &lt;a href=&quot;https://www.youtube.com/watch?v=6NRfLjCE3xE&quot;&gt; Mariah Carey&lt;/a&gt;. So I start by the simplest thing and google the error message. This all takes place before the AI revolution so &lt;strong&gt;passiveagressive123&lt;/strong&gt; on Stack Overflow thinks that it is &lt;em&gt;astonishing&lt;/em&gt; to see anyone with such poor understanding of the python venv and that my helplessness in face of such trivial issue is why he has no...</description>
+        <pubDate>Fri, 27 Feb 2026 10:18:11 +0300</pubDate>
+        <link>http://localhost:4000/brutally-honest-ai/</link>
+        <guid isPermaLink="true">http://localhost:4000/brutally-honest-ai/</guid>
+        
+        <category>LLM,</category>
+        
+        <category>AI,</category>
+        
+        <category>chat</category>
+        
+        <category>models</category>
+        
+        <category>tips</category>
+      </item>
     
       <item>
         <title>Agentic AI and security</title>
         <description>&lt;p&gt;For those who have seen the 2014 sci-fi movie Interstellar, it would not be a long stretch to say that TARS is the MVP. One of my favorite scenes in the movie is when Cooper and Brand are chasing Matt Damon’s character, Mann (because he went insane and wants to dock with the Endurance, leaving Cooper and Brand to die in that hostile planet). But TARS informs the crew casually that it disabled Mann’s autopilot system a while ago, out of caution because it suspected him to be evil already.&lt;/p&gt; &lt;p&gt;Cooper then asks TARS what its Trust setting is, to...</description>
         <pubDate>Wed, 25 Feb 2026 23:12:46 +0300</pubDate>
-        <link>/agentic-ai-and-security/</link>
-        <guid isPermaLink="true">/agentic-ai-and-security/</guid>
+        <link>http://localhost:4000/agentic-ai-and-security/</link>
+        <guid isPermaLink="true">http://localhost:4000/agentic-ai-and-security/</guid>
         
         <category>Agentic AI</category>
         

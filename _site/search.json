@@ -3,6 +3,14 @@
   
   
     {
+      "title"    : "Brutally honest AI",
+      "tags"     : "LLM,, AI,, chat, and models",
+      "categories" : "tips",
+      "url"      : "/brutally-honest-ai/",
+      "date"     : "02/27/2026"
+    } ,
+  
+    {
       "title"    : "Agentic AI and security",
       "tags"     : "Agentic AI, LLM, and Cybersecurity",
       "categories" : "code",

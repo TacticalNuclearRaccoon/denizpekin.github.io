@@ -175,5 +175,9 @@ In the movie Interstellar, by disabling Mann's autopilot, TARS demonstrates **Ze
 
 Agentic Ai systems can be very powerful, but my honest opinion is that the hype around AI in general prevents people to think about the age-old security practices which are hard earned and there for a reason. 
 
+## References
 
-
+* https://martinfowler.com/articles/agentic-ai-security.html#top
+* https://labs.zenity.io/p/when-a-jira-ticket-can-steal-your-secrets
+* https://www.ibm.com/think/topics/zero-trust
+* https://simonwillison.net/
