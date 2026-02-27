@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jekflix | A blog theme for Jekyll</title>
+    <description>Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 27 Feb 2026 09:34:06 +0300</pubDate>
+    <lastBuildDate>Fri, 27 Feb 2026 09:34:06 +0300</lastBuildDate>
+    <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Agentic AI and security</title>
+        <description>&lt;p&gt;For those who have seen the 2014 sci-fi movie Interstellar, it would not be a long stretch to say that TARS is the MVP. One of my favorite scenes in the movie is when Cooper and Brand are chasing Matt Damon’s character, Mann (because he went insane and wants to dock with the Endurance, leaving Cooper and Brand to die in that hostile planet). But TARS informs the crew casually that it disabled Mann’s autopilot system a while ago, out of caution because it suspected him to be evil already.&lt;/p&gt; &lt;p&gt;Cooper then asks TARS what its Trust setting is, to...</description>
+        <pubDate>Wed, 25 Feb 2026 23:12:46 +0300</pubDate>
+        <link>/agentic-ai-and-security/</link>
+        <guid isPermaLink="true">/agentic-ai-and-security/</guid>
+        
+        <category>Agentic AI</category>
+        
+        <category>LLM</category>
+        
+        <category>Cybersecurity</category>
+        
+        <category>code</category>
+      </item>
+    
+  </channel>
+</rss>
