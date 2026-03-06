@@ -179,6 +179,13 @@
     
     
         <url>
+            <loc>http://localhost:4000/large-language-models-and-memory/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2026-02-28</lastmod>
+        </url>
+    
+        <url>
             <loc>http://localhost:4000/brutally-honest-ai/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
