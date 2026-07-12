@@ -12,7 +12,7 @@ author: deniz
 paginate: false
 ---
 
-One unfortunate morning, I open the the current project I am working on only to find out that my virtual environment is broken. It has never happened before. I ask `which pip` and my computer basically pulls a <a href="https://www.youtube.com/watch?v=6NRfLjCE3xE"> Mariah Carey</a>. So I start by the simplest thing and google the error message. This all takes place before the AI revolution so **passiveagressive123** on Stack Overflow thinks that it is *astonishing* to see anyone with such poor understanding of the python venv and that my helplessness in face of such trivial issue is why he has no hope left for humanity. 
+One unfortunate morning, I open the current project I am working on only to find out that my virtual environment is broken. It has never happened before. I ask `which pip` and my computer basically pulls a <a href="https://www.youtube.com/watch?v=6NRfLjCE3xE"> Mariah Carey</a>. So I start by the simplest thing and google the error message. This all takes place before the AI revolution so **passiveagressive123** on Stack Overflow thinks that it is *astonishing* to see anyone with such poor understanding of the python venv and that my helplessness in face of such trivial issue is why he has no hope left for humanity. 
 
 If I had asked any foundation model though, it would tell me that the issue was common and it was perfectly normal to encounter it. And given my ample knowledge as a professional data scientist and my supersonic understanding of Python and virtual environments the fix would be easy to implement and then 
 ```bash
