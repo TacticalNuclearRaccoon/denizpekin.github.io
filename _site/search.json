@@ -3,6 +3,14 @@
   
   
     {
+      "title"    : "Est-ce que l&#39;IA pourrait vaincre l&#39;entièreté de l&#39;humanité?",
+      "tags"     : "IA, sécurité, philosophie, and science-fiction",
+      "categories" : "blog",
+      "url"      : "/securite-ia/",
+      "date"     : "08/25/2026"
+    } ,
+  
+    {
       "title"    : "Large language models and memory",
       "tags"     : "chatbot applications, memory, LLM, and Artificial intelligence",
       "categories" : "code",

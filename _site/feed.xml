@@ -5,9 +5,27 @@
     <description>Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 Mar 2026 23:00:10 +0100</pubDate>
-    <lastBuildDate>Fri, 06 Mar 2026 23:00:10 +0100</lastBuildDate>
+    <pubDate>Sat, 29 Aug 2026 15:26:05 +0200</pubDate>
+    <lastBuildDate>Sat, 29 Aug 2026 15:26:05 +0200</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Est-ce que l&apos;IA pourrait vaincre l&apos;entièreté de l&apos;humanité?</title>
+        <description>&lt;p&gt;J’ai récemment joint un club de lecture international. Toutes les semaines on se réunit par petits comités et on discute autour des questions concernant la sécurité de l’Intelligence Artificielle (IA). Mais le sujet n’est pas la cybersécurité ou MLSecOPS (Machine Learning Security Operations). Non, on parle carrément des scénarios à la &lt;a href=&quot;https://en.wikipedia.org/wiki/Skynet_(Terminator)&quot;&gt; &lt;em&gt;Skynet&lt;/em&gt; &lt;/a&gt; (Terminator), ou &lt;a href=&quot;https://en.wikipedia.org/wiki/HAL_9000&quot;&gt; &lt;em&gt;HAL&lt;/em&gt; &lt;/a&gt; (2001 Space Odyssey). On discute de l’éventualité que l’IA; intelligente, consciente, dotée du pouvoir d’action, devienne un risque existentielle pour l’humanité. Et ce qu’on pourrait faire avant, pendant et après cette éventualité…&lt;/p&gt; &lt;p&gt;La raison pour laquelle j’ai rejoint ce...</description>
+        <pubDate>Tue, 25 Aug 2026 12:52:42 +0200</pubDate>
+        <link>http://localhost:4000/securite-ia/</link>
+        <guid isPermaLink="true">http://localhost:4000/securite-ia/</guid>
+        
+        <category>IA</category>
+        
+        <category>sécurité</category>
+        
+        <category>philosophie</category>
+        
+        <category>science-fiction</category>
+        
+        <category>blog</category>
+      </item>
     
       <item>
         <title>Large language models and memory</title>
@@ -29,7 +47,7 @@
     
       <item>
         <title>Brutally honest AI</title>
-        <description>&lt;p&gt;One unfortunate morning, I open the the current project I am working on only to find out that my virtual environment is broken. It has never happened before. I ask &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;which pip&lt;/code&gt; and my computer basically pulls a &lt;a href=&quot;https://www.youtube.com/watch?v=6NRfLjCE3xE&quot;&gt; Mariah Carey&lt;/a&gt;. So I start by the simplest thing and google the error message. This all takes place before the AI revolution so &lt;strong&gt;passiveagressive123&lt;/strong&gt; on Stack Overflow thinks that it is &lt;em&gt;astonishing&lt;/em&gt; to see anyone with such poor understanding of the python venv and that my helplessness in face of such trivial issue is why he has no...</description>
+        <description>&lt;p&gt;One unfortunate morning, I open the current project I am working on only to find out that my virtual environment is broken. It has never happened before. I ask &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;which pip&lt;/code&gt; and my computer basically pulls a &lt;a href=&quot;https://www.youtube.com/watch?v=6NRfLjCE3xE&quot;&gt; Mariah Carey&lt;/a&gt;. So I start by the simplest thing and google the error message. This all takes place before the AI revolution so &lt;strong&gt;passiveagressive123&lt;/strong&gt; on Stack Overflow thinks that it is &lt;em&gt;astonishing&lt;/em&gt; to see anyone with such poor understanding of the python venv and that my helplessness in face of such trivial issue is why he has no hope...</description>
         <pubDate>Fri, 27 Feb 2026 08:18:11 +0100</pubDate>
         <link>http://localhost:4000/brutally-honest-ai/</link>
         <guid isPermaLink="true">http://localhost:4000/brutally-honest-ai/</guid>

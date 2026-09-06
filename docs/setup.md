@@ -51,6 +51,12 @@ After the steps above, to run Jekyll locally, you'll just need to run Gulp:
 $ gulp
 ```
 
+## Serving locally
+
+```
+$ bundle exec jekyll serve 
+```
+
 ## Customization
 
 *Jekflix Template* allows you to personalize your site with several settings. See the [docs](settings.md#settings) for more details.
